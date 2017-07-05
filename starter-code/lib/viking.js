@@ -98,7 +98,7 @@ function War () {
   };
 
   this.showStats = function(){
-    return 'Vikings have won the war of the century!'
+    return 'Vikings have won the war of the century!';
   };
 
 }
